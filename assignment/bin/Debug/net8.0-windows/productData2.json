@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "Fresh Meadow UHT Strawberry 250ml",
+    "Type": "variable",
+    "RegularPrice": "RM3.24",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 796649,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM11.png"
+  },
+  {
+    "Name": "V-Soy Multigrain 4 x 200ml",
+    "Type": "variable",
+    "RegularPrice": "RM6",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 796646,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM9.jpg"
+  },
+  {
+    "Name": "PDB BBB Toothbrush 3-6",
+    "Type": "variable",
+    "RegularPrice": "RM3.4",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 796642,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM8.png"
+  },
+  {
+    "Name": "PDB Kids Toothpaste Strawberry",
+    "Type": "variable",
+    "RegularPrice": "RM3.4",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 796639,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM7.jpg"
+  },
+  {
+    "Name": "Mixed SKU volume price test 1",
+    "Type": "bundle",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796638,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "RM35.60 when I mix 75 ctn Pepsi \u002B 75 ctn Pepsi Black",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796637,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "RM35.60 when I mix 75 ctn Pepsi \u002B 75 ctn Pepsi Black",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796635,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "Snow Brand MBP\u00AE NeoMilk",
+    "Type": "variable",
+    "RegularPrice": "RM74.9",
+    "Options": [
+      "TIN"
+    ],
+    "Id": 796633,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM6.png"
+  },
+  {
+    "Name": "Buy 24 Free 1 (Combo Set)",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796629,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM5.png"
+  },
+  {
+    "Name": "Vitamilk Double Choco Shake 300ml",
+    "Type": "variable",
+    "RegularPrice": "RM3.99",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 796626,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM4.png"
+  }
+]

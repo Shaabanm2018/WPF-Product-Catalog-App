@@ -1,0 +1,105 @@
+[
+  {
+    "Name": "Light Colours",
+    "Type": "variable",
+    "RegularPrice": "RM3",
+    "Options": [
+      "Ivory",
+      "White"
+    ],
+    "Id": 795783,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/05/Light-Colour.png"
+  },
+  {
+    "Name": "Dark Colours",
+    "Type": "variable",
+    "RegularPrice": "RM3",
+    "Options": [
+      "Gold",
+      "Lemon"
+    ],
+    "Id": 795779,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/05/Dark-Colours.png"
+  },
+  {
+    "Name": "Light Colours",
+    "Type": "variable",
+    "RegularPrice": "RM3",
+    "Options": [
+      "Ivory",
+      "White"
+    ],
+    "Id": 795769,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/05/Light-Colour.png"
+  },
+  {
+    "Name": "Lemon",
+    "Type": "variable",
+    "RegularPrice": "RM3",
+    "Options": [
+      "PACK"
+    ],
+    "Id": 795767,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/05/Lemon.png"
+  },
+  {
+    "Name": "Gold",
+    "Type": "variable",
+    "RegularPrice": "RM3",
+    "Options": [
+      "PACK"
+    ],
+    "Id": 795765,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/05/Gold.png"
+  },
+  {
+    "Name": "Ivory",
+    "Type": "variable",
+    "RegularPrice": "RM3",
+    "Options": [
+      "PACK"
+    ],
+    "Id": 795759,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/05/Ivory.png"
+  },
+  {
+    "Name": "White",
+    "Type": "variable",
+    "RegularPrice": "RM3",
+    "Options": [
+      "PACK"
+    ],
+    "Id": 795756,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/05/White.png"
+  },
+  {
+    "Name": "Everything @ 20% off, with PWP @ 80% off (if you buy more than RM6000)",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 795374,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "Mix and match 10, get 2 lowest priced products for free",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 795373,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "DEESTONE-D110",
+    "Type": "variable",
+    "RegularPrice": "RM900",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 795371,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/05/12100083.jpg"
+  }
+]

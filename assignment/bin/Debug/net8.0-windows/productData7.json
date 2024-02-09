@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "THD-NONA250/402-JS10 BLUE",
+    "Type": "variable",
+    "RegularPrice": "RM1.10",
+    "Options": [
+      "CRT",
+      "UNIT"
+    ],
+    "Id": 794802,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/11/Capture-1.jpg"
+  },
+  {
+    "Name": "THD-NONA250/402-JS1 BLACK",
+    "Type": "variable",
+    "RegularPrice": "RM1.10",
+    "Options": [
+      "CRT",
+      "UNIT"
+    ],
+    "Id": 794800,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/11/Capture.jpg"
+  },
+  {
+    "Name": "THD-NONA1K/402-N136 BLUE",
+    "Type": "variable",
+    "RegularPrice": "RM1.20",
+    "Options": [
+      "CRT",
+      "UNIT"
+    ],
+    "Id": 794794,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/11/Capture-1.jpg"
+  },
+  {
+    "Name": "THD-NONA1K/402-N126 BLACK",
+    "Type": "variable",
+    "RegularPrice": "RM1.20",
+    "Options": [
+      "CRT",
+      "UNIT"
+    ],
+    "Id": 794791,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/11/Capture.jpg"
+  },
+  {
+    "Name": "THD-NONA1K/402-N103 YELLOW",
+    "Type": "variable",
+    "RegularPrice": "RM1.80",
+    "Options": [
+      "CRT",
+      "UNIT"
+    ],
+    "Id": 794786,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/11/img_6750_1_3.jpg"
+  },
+  {
+    "Name": "Colgate Advanced Whitening 2",
+    "Type": "variable",
+    "RegularPrice": "RM10.9",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 772899,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2020/10/col-124.jpg"
+  },
+  {
+    "Name": "AGED-JAVA-CHERRY",
+    "Type": "variable",
+    "RegularPrice": "RM0",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 772372,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "HONEY-CHERRY",
+    "Type": "variable",
+    "RegularPrice": "RM0",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 772370,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "T-PORT",
+    "Type": "variable",
+    "RegularPrice": "RM0",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 772366,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "VINTAGE-WHITE",
+    "Type": "variable",
+    "RegularPrice": "RM0",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 772368,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  }
+]

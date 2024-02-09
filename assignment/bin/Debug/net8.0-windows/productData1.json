@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "6 Pieces Sweetie Bun",
+    "Type": "variable",
+    "RegularPrice": "RM7",
+    "Options": [
+      "PACK"
+    ],
+    "Id": 797096,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2023/03/6-pieces-sweetie-bun-coklat.jpg"
+  },
+  {
+    "Name": "6 Pieces Mini Sweetie Bun",
+    "Type": "variable",
+    "RegularPrice": "RM5",
+    "Options": [
+      "PACK"
+    ],
+    "Id": 797093,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2023/03/6-pieces-mini-sweetie.jpg"
+  },
+  {
+    "Name": "Buy 2 @RM139.99",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796687,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM13.png"
+  },
+  {
+    "Name": "Combo Set (package discount)",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796674,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/2022-10-20_17h10_40.png"
+  },
+  {
+    "Name": "mixed SKU volume price",
+    "Type": "bundle",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796671,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "PS DRESSING COLESLAW 330ML",
+    "Type": "variable",
+    "RegularPrice": "RM8.96",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 796667,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/Praise2.jpg"
+  },
+  {
+    "Name": "PS DRESSING FRENCH L SGR 330ML",
+    "Type": "variable",
+    "RegularPrice": "RM8.96",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 796664,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/Praise1.jpg"
+  },
+  {
+    "Name": "Marina Chic Sausage Cheese 300g",
+    "Type": "variable",
+    "RegularPrice": "RM6.45",
+    "Options": [
+      "PACK"
+    ],
+    "Id": 796660,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/Marina3.png"
+  },
+  {
+    "Name": "Marina Chic Sausage Chili 300g",
+    "Type": "variable",
+    "RegularPrice": "RM5.17",
+    "Options": [
+      "PACK"
+    ],
+    "Id": 796656,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/Marina2.png"
+  },
+  {
+    "Name": "Marina Chic Sausage Original 300g",
+    "Type": "variable",
+    "RegularPrice": "RM5.17",
+    "Options": [
+      "PACK"
+    ],
+    "Id": 796651,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/Marina1.png"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "Name": "Empty Bottle (Pint)",
+    "Type": "variable",
+    "RegularPrice": "RM0.15",
+    "Options": [
+      "CRT",
+      "BOT"
+    ],
+    "Id": 796153,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/07/590001.png"
+  },
+  {
+    "Name": "Buy 10 Free 1",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 795992,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "CASTROL MAGNATEC STOP-START 0W-20",
+    "Type": "variable",
+    "RegularPrice": "RM225",
+    "Options": [
+      "BOTTLE",
+      "CARTON"
+    ],
+    "Id": 795999,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/06/3428969-Castrol-MAGNATEC-STOP-START-0W20-6x4L.png.img_.375.medium.png"
+  },
+  {
+    "Name": "CASTROL MAGNATEC 10W-40",
+    "Type": "variable",
+    "RegularPrice": "RM119",
+    "Options": [
+      "LITRE"
+    ],
+    "Id": 795996,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/06/3426472_CASTROL-MAGNATEC-10W40-6X4L-OP.png.img_.375.medium.png"
+  },
+  {
+    "Name": "CASTROL GTX 15W-40",
+    "Type": "variable",
+    "RegularPrice": "RM86",
+    "Options": [
+      "LITRE"
+    ],
+    "Id": 795991,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/06/3428245_CASTROL-GTX-15W40-6x4L-OP.png.img_.750.medium.png"
+  },
+  {
+    "Name": "Buy 10 Free 1",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 795989,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "Helix HX5 15W-40 4-litre pack",
+    "Type": "variable",
+    "RegularPrice": "RM66",
+    "Options": [
+      "BOTTLE",
+      "CARTON"
+    ],
+    "Id": 795986,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/06/Helix-HX5-15W-40-4-litre-pack.jpeg"
+  },
+  {
+    "Name": "Helix HX7 10W-40 4-litre pack",
+    "Type": "variable",
+    "RegularPrice": "RM88",
+    "Options": [
+      "BOTTLE",
+      "CARTON"
+    ],
+    "Id": 795983,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/06/Helix-HX7-10W-40-4-litre-pack.jpg"
+  },
+  {
+    "Name": "Helix Ultra 5W-40 4-litre pack",
+    "Type": "variable",
+    "RegularPrice": "RM225",
+    "Options": [
+      "BOTTLE",
+      "CARTON"
+    ],
+    "Id": 795979,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/06/ultra-5w-30-sp-4l.jpeg"
+  },
+  {
+    "Name": "Dark Colours",
+    "Type": "variable",
+    "RegularPrice": "RM3",
+    "Options": [
+      "Gold",
+      "Lemon"
+    ],
+    "Id": 795789,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/05/Dark-Colours.png"
+  }
+]

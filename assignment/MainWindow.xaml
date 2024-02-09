@@ -1,0 +1,35 @@
+﻿<Window x:Class="assignment.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:assignment"
+        mc:Ignorable="d"
+        Title="Fresh &amp; Healthy" Height="530" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- New row for header stripe -->
+            <RowDefinition Height="*"/>
+            <!-- Auto-adjust height for content -->
+            <RowDefinition Height="Auto"/>
+            <!-- Fixed height for the buttons -->
+        </Grid.RowDefinitions>
+
+        <!-- Header stripe with an Image -->
+        <Image Grid.Row="0" Source="pack://siteoforigin:,,,/images/header.png"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+
+        <ScrollViewer Grid.Row="1">
+            <StackPanel x:Name="MainStackPanel">
+                <!-- Dynamic content will be added here -->
+            </StackPanel>
+        </ScrollViewer>
+        <!-- StackPanel to hold load next page and load previous page buttons -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10">
+            <Button Width="120" Height="25" Content="Load Previous Page" Click="LoadPreviousPageButton_Click"
+                    Background="#4e4f4e" Foreground="White" FontFamily="Kobern" Margin="0,0,10,0"/>
+            <Button Width="100" Height="25" Content="Load Next Page" Click="LoadNextPageButton_Click"
+                    Background="#4e4f4e" Foreground="White" FontFamily="Kobern"/>
+        </StackPanel>
+    </Grid>
+</Window>

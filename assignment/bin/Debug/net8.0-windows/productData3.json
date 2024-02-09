@@ -1,0 +1,104 @@
+[
+  {
+    "Name": "V-Soy Original 300ml",
+    "Type": "variable",
+    "RegularPrice": "RM2.7",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 796622,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM3.png"
+  },
+  {
+    "Name": "Buy 24 \u002B Outright Discount (Single SKU)",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796621,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM2.png"
+  },
+  {
+    "Name": "Buy 24 Free 1 (Single SKU)",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796620,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM2.png"
+  },
+  {
+    "Name": "Buy 24 Free 1 \u002B Outright Discount (Single SKU)",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796618,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM2.png"
+  },
+  {
+    "Name": "V-Soy Original UHT1L",
+    "Type": "variable",
+    "RegularPrice": "RM10.88",
+    "Options": [
+      "CARTON",
+      "UNIT"
+    ],
+    "Id": 796595,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/10/FFM-Demo-1.jpg"
+  },
+  {
+    "Name": "Bundle",
+    "Type": "bundle",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796574,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "Empty Bottle \u002B Crate (Quart)",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796163,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/07/590003-SET.png"
+  },
+  {
+    "Name": "Empty Bottle \u002B Crate (Pint)",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 796162,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/07/590001-SET.png"
+  },
+  {
+    "Name": "Empty Crate",
+    "Type": "variable",
+    "RegularPrice": "RM7",
+    "Options": [
+      "CRT"
+    ],
+    "Id": 796159,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/07/crate.png"
+  },
+  {
+    "Name": "Empty Bottle (Quart)",
+    "Type": "variable",
+    "RegularPrice": "RM0.3",
+    "Options": [
+      "CRT",
+      "BOT"
+    ],
+    "Id": 796156,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2022/07/590003.png"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "Name": "DEESTONE-D109",
+    "Type": "variable",
+    "RegularPrice": "RM800",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 795369,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/05/12100083.jpg"
+  },
+  {
+    "Name": "Buy 10 @ 20% off, up to 2 different products only",
+    "Type": "composite",
+    "RegularPrice": "RM10",
+    "Options": [
+      "Piece"
+    ],
+    "Id": 795368,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+  },
+  {
+    "Name": "Apple (KG)",
+    "Type": "variable",
+    "RegularPrice": "RM20",
+    "Options": [
+      "KG"
+    ],
+    "Id": 795067,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/05/V0001.jpg"
+  },
+  {
+    "Name": "\u8461\u8404Grape (CRT)\u7BB1",
+    "Type": "variable",
+    "RegularPrice": "RM10",
+    "Options": [
+      "100BIJI",
+      "200BIJI",
+      "25BIJI"
+    ],
+    "Id": 795061,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/05/V0003.jpg"
+  },
+  {
+    "Name": "Grape (KG)",
+    "Type": "variable",
+    "RegularPrice": "RM10",
+    "Options": [
+      "KG"
+    ],
+    "Id": 795059,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/05/V0003.jpg"
+  },
+  {
+    "Name": "\u8FDB\u53E3\u897F\u74DC Watermelon",
+    "Type": "variable",
+    "RegularPrice": "RM10",
+    "Options": [
+      "KG"
+    ],
+    "Id": 795058,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/12/GettyImages-200533427-001.jpg"
+  },
+  {
+    "Name": "\u8461\u8404\uFF08KG)",
+    "Type": "variable",
+    "RegularPrice": "RM10",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 795057,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/11/image-1.png"
+  },
+  {
+    "Name": "\u897F\u74DC Watermelon (KG)",
+    "Type": "variable",
+    "RegularPrice": "RM0",
+    "Options": [
+      "KG"
+    ],
+    "Id": 795051,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/12/GettyImages-200533427-001.jpg"
+  },
+  {
+    "Name": "\u897F\u74DC Watermelon",
+    "Type": "variable",
+    "RegularPrice": "RM20",
+    "Options": [
+      "100BIJI",
+      "200BIJI",
+      "25BIJI"
+    ],
+    "Id": 795045,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/12/GettyImages-200533427-001.jpg"
+  },
+  {
+    "Name": "BTN-BRIGHT 102-B12 YELLOW",
+    "Type": "variable",
+    "RegularPrice": "RM5.80",
+    "Options": [
+      "UNIT"
+    ],
+    "Id": 794804,
+    "ImagePath": "https://mangomart-autocount.myboostorder.com/wp-content/uploads/sites/446/2021/11/image-1.png"
+  }
+]
